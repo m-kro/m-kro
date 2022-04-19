@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>
+  <a href="https://www.researchgate.net/profile/Mirko-Barthauer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
+  <a href="http://www.xing.com/profile/Mirko_Barthauer"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white"/></a>
+  
+</p>
