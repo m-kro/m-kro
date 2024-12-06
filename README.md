@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 ## Other accounts
 <p>
+  <a href="https://www.linkedin.com/in/mirko-barthauer-a5722630b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.researchgate.net/profile/Mirko-Barthauer"><img src="https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white"/></a>
   <a href="http://www.xing.com/profile/Mirko_Barthauer"><img src="https://img.shields.io/badge/Xing-006567.svg?style=for-the-badge&logo=Xing&logoColor=white"/></a>
-  
 </p>
 
 ## Stats
